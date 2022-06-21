@@ -1,0 +1,5 @@
+GET https://api.telegram.org/bot5274594317:AAGN5Gf5ijnSP6H0lpCGtIY7NJW_2PCHtaY/setWebhook?url=https://us-central1-tg-bot-alf.cloudfunctions.net/echoBot
+Accept: application/json
+
+###
+GET https://api.telegram.org/bot5274594317:AAGN5Gf5ijnSP6H0lpCGtIY7NJW_2PCHtaY/setWebhook?url=https://6929-178-176-159-194.ngrok.io/tg-bot-alf/us-central1/echoBot

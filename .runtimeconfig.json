@@ -1,0 +1,20 @@
+{
+  "app": {
+    "firebase": {
+      "sender": "838210227368",
+      "project": "tg-bot-alf",
+      "id": "1:838210227368:web:d2c1bfdf87e81b4f49469d",
+      "key": "AIzaSyAejuPhO5jNCZvAQnjVyx6sFP6cCwehCIw",
+      "bucket": "tg-bot-alf.appspot.com",
+      "url": "https://tg-bot-alf.firebaseio.com",
+      "domain": "tg-bot-alf.firebaseapp.com"
+    }
+  },
+  "telegram": {
+    "token": "5274594317:AAGN5Gf5ijnSP6H0lpCGtIY7NJW_2PCHtaY"
+  },
+  "vk": {
+    "token": "ceaeadc1ceaeadc1ceaeadc188cedda69fcceaeceaeadc191a063255c1bdcb67bf1034b",
+    "owner": "-125779273"
+  }
+}
